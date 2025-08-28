@@ -26,4 +26,4 @@ print(f"""Its {celcius} degrees celcius
 It feels like {feels_like} degrees celcius
 Humidity is {humidity} %
 The current wind speed is {wind} m/s
-The current weather is {weather}""")
+The current weather is: {weather}""")
